@@ -1,0 +1,13 @@
+libsm6
+libxext6 
+libv4l-dev
+libdc1394-22
+libdc1394-22-dev
+v4l-utils
+ffmpeg
+libavcodec-dev
+libavformat-dev
+libswscale-dev
+libxine2-dev
+libmp3lame-dev
+mplayer
